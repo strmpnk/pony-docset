@@ -17,13 +17,11 @@ Download the [latest revision](https://github.com/ergl/pony-docset/releases) of
 the docset and unzip it. To install it just double-click on `Pony.docset` and
 Dash will add it automatically.
 
-## Installation for Zeal (Linux or Windows)
+## Installation for Zeal (Windows Or Linx)
 
-**Untested, taken from [https://github.com/obstschale/octave-docset](https://github.com/obstschale/octave-docset)**
+To manually install a docset in Zeal, download the [latest revision](https://github.com/ergl/pony-docset/releases) or build it with make nodejs. Once you have the Pony.docset file, you'll need to copy it in place. On Windows that is `%HOMEPATH%\AppData\Local\Zeal\Zeal\docsets\`. On linux the docsets are likely stored somewhere withing your home directory (???).
 
-To manually install a docset in Zeal, download the [latest revision](https://github.com/ergl/pony-docset/releases),
-unzip it and copy it into `%HOMEPATH%\AppData\zeal\docset\`.
-Restart Zeal and Octave should be loaded automatically.
+Restart Zeal and Pony should be loaded automatically.
 
 ---
 
